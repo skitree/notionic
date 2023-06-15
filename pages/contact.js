@@ -22,7 +22,7 @@ export const Contact = () => {
             href={BLOG.socialLink.telegram}
             className='hover:text-indigo-500 active:text-indigo-600 underline transition duration-100'
           >
-            @{BLOG.socialLink.telegram.slice(13)}
+            // @{BLOG.socialLink.telegram.slice(13)}
           </a>
         </p>
       </div>
